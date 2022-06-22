@@ -1,0 +1,78 @@
+Title: DACA "Flowchart"
+Author: [Irene Hernandez Carrera]
+Before: <link rel="stylesheet" type="text/css" href="https://suffolklitlab.org/howto/qna/style/style.css">
+<div id="icon" style="background-size: 110px 99px;background-image: url('https://suffolklitlab.org/howto/qna/images/maxheadroom.gif');"></div>
+<h2 style="text-align:center;">DACA "Flowchart"</h2>
+<p><b>This is a <a href="https://www.codingthelaw.org/#mission">class project</a>. You should not rely on it as a source of legal information!</b></p>
+<p>Answer the following questions to see if someone qualifies for DACA.</p>
+
+Q(1):Is their birthday on or after June 16, 1981?
+A:no
+	Q(1.1): you are ineligible
+A:yes
+	Q(1.2): Did they enter the USA before their sixteenth birthday?
+
+	A:no
+		Q(1.2.1):you are ineligible
+	A:yes
+		Q(1.2.2):Where they in the USA on june 15,2012?
+		A:no
+			Q(1.2.2.1):you are ineligible
+		A:yes
+			Q(1.2.2.2):Have they continuosly resided in the USA since June 15,2007?
+			A:no
+				Q(1.2.2.2.1):you are ineligible
+			A:yes
+				Q(1.2.2.2.2):Were they out of status on June 15,2012?
+				A:no
+					Q(1.2.2.2.2.1):you are ineligible
+				A:yes		
+					Q(1.2.2.2.2.2):Have they been convicted of a felony or a significant misdemeanor?
+					A:yes
+						Q(1.2.2.2.2.2.1): you are ineligible
+					A:no
+						Q(1.2.2.2.2.2.2):Have they been convicted of more than one misdemeanor?
+						A:yes
+							Q(1.2.2.2.2.2.2.1): you are ineligible
+						A:no
+							Q(1.2.2.2.2.2.2.2): Do they pose a threat to national security or public safety?
+							A:yes
+								Q(1.2.2.2.2.2.2.2.1): you are ineligible
+							A:no
+								Q(1.2.2.2.2.2.2.2.2):Are they currently in school?
+								A:yes
+									Q(1.2.2.2.2.2.2.2.2.1):Are they 15 or above?
+									A:yes
+										Q(1.2.2.2.2.2.2.2.2.1.1):you are eligible
+									A:no
+										Q(1.2.2.2.2.2.2.2.2.1.2):Are they currently in removal proceedings, or have a final removal or VD order?
+										A:no
+											Q(1.2.2.2.2.2.2.2.2.1.2.1):wait
+										A:yes
+											Q(1.2.2.2.2.2.2.2.2.1.2.2):you are eligible
+								A:no
+									Q(1.2.2.2.2.2.2.2.2.2):Do they have a HS diploma or GED?
+									A:yes
+										Q(1.2.2.2.2.2.2.2.2.2.1):Are they 15 or above?
+										A:yes
+											Q(1.2.2.2.2.2.2.2.2.2.1.1):you are eligible
+			
+										A:no
+											Q(1.2.2.2.2.2.2.2.2.2.1.2):Are they currently in removal proceedings, or have a final removal or VD order?
+											A:yes
+												Q(1.2.2.2.2.2.2.2.2.2.1.2.1):you are eligible
+											A:no
+												Q(1.2.2.2.2.2.2.2.2.2.1.2.2): wait
+									A:no
+										Q(1.2.2.2.2.2.2.2.2.2.2):Are they an honorably discharged veteran of the Coast Guard or Armed Forces of the USA?
+										A:no
+											Q(1.2.2.2.2.2.2.2.2.2.2.1):wait
+										A:yes
+											Q(1.2.2.2.2.2.2.2.2.2.2.2):you are eligible
+																
+					
+	
+	
+
+
+	
